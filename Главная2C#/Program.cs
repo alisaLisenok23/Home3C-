@@ -36,7 +36,7 @@ number=number/10;
 }
 number=number%10;
 Console.WriteLine(number);
-
+}
  Console.Write("Введите число обозначающее день недели");
  int x = Convert.ToInt32(Console.ReadLine());
  
