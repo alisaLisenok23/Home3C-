@@ -6,7 +6,7 @@
 782 -> 8
 918 -> 1 
 Решение */
-Console.WriteLine ("Ввоод трехзначного числа" );*/
+Console.WriteLine ("Ввоод трехзначного числа" );
 int a;
 a = Convert.ToInt32 (Console.ReadLine());
 if (a < 1000 & a > 99)
