@@ -28,7 +28,7 @@ number=Convert.ToInt32(Console.ReadLine());
  {Console.WriteLine("нет третьего числа");
 }
   
- else if (number >= 100 & number < 1000)
+ else if (number >= 100 )
  {
      for(;number>999;)
 {
